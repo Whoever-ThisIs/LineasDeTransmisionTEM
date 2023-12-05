@@ -11,7 +11,7 @@
 	</main>
 
 	<footer>
-		<p>El suicidio nunca habia estado tan cerca</p>
+		<p>Aprobado por el mismísimo Neri Vela</p>
 	</footer>
 </div>
 

@@ -4,7 +4,7 @@
 
 <svelte:head>
 	<title>Inicio</title>
-	<meta name="description" content="Svelte demo app" />
+	<meta name="description" content="Proyecto Final TEM Lineas de transmision" />
 </svelte:head>
 
 <span class="welcome">

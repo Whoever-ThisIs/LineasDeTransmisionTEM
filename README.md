@@ -1,38 +1,32 @@
-# create-svelte
+# Proyecto Final de Teoría Electromagnética
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+## ¿Cómo abrir el proyecto?
+Para utilizar el proyecto deberá de acceder a la página de Cloudfare ubicada en el [siguiente link](https://fcee0618.lineasdetransmisiontem.pages.dev).
 
-## Creating a project
+Una vez dentro, deberá presionar en la pestaña de "Ingreso de datos" que se encuentra en la parte superior de la página.
 
-If you're seeing this, you've probably already done this step. Congrats!
+## Usando el programa
+El programa permite hacer cálculos de líneas de transmisión de tipo:
+- Par Bifiliar
+- Cable Coaxial 
+- Placas Paralelas
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+Una vez elegida la línea de transmisión, se deberá de elegir el material dieléctrico y el material conductor para la línea, con una amplia variedad de opciones. En caso de que quiera meter sus propios valores, podrá hacerlo eligiendo la opción "Personalizado".
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+Hasta abajo, encontrará una caja de texto donde poder insertar las frecuencias que desee. Esta caja de texto solo se activara hasta que se ingresen todos los parámetros de la línea de transmisión elegida.
 
-## Developing
+Se pueden insertar números en notación científica de la siguiente manera: 1e7, 23.67e-8, etc.
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+En caso de que quiera volver a iniciar, encontrará abajo del botón para añadir frecuencias un botón para recargar la página, o podrá hacerlo de manera manual en la barra superior de su navegador.
 
-```bash
-npm run dev
+## Información sobre el proyecto
+El proyecto fue realizado en el lenguaje de programación de Javascript, por medio de un framework llamado Svelte que facilitá la creación, estructurización y reactividad de la página con HTML, CSS y JS.
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
+En caso de querer revisar el código de manera manual, lo encontrará en la siguiente dirección dentro del zip que ha recibido:
 
-## Building
+> LineasDeTransmisionTEM/src/routes
 
-To create a production version of your app:
+La página de inicio se encontrará en ese directorio, mientras que la página de Ingreso de Datos esta en la misma ruta, dentro de la carpeta llamada *about*.
 
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+## Disclaimer
+Por razones de la plataforma de Hosting donde se tiene el proyecto (Cloudfare), presionar el botón de Inicio estando en Ingreso de Datos no servira de mucho, esto es por pérdidas en la traducción entre la página local que se abre en su computadora (debe de tener npm, node, etc. instalados para correrlo) y la forma en la que Cloudfare realiza el hosting.
