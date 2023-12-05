@@ -1,0 +1,178 @@
+{
+  ".svelte-kit/generated/client-optimized/app.js": {
+    "dynamicImports": [
+      ".svelte-kit/generated/client-optimized/nodes/0.js",
+      ".svelte-kit/generated/client-optimized/nodes/1.js",
+      ".svelte-kit/generated/client-optimized/nodes/2.js",
+      ".svelte-kit/generated/client-optimized/nodes/3.js"
+    ],
+    "file": "_app/immutable/entry/app.8ff5b0af.js",
+    "imports": [
+      "_scheduler.1671e808.js",
+      "_index.dfaa7074.js"
+    ],
+    "isEntry": true,
+    "src": ".svelte-kit/generated/client-optimized/app.js"
+  },
+  ".svelte-kit/generated/client-optimized/nodes/0.css": {
+    "file": "_app/immutable/assets/0.df1a4a6c.css",
+    "src": ".svelte-kit/generated/client-optimized/nodes/0.css"
+  },
+  ".svelte-kit/generated/client-optimized/nodes/0.js": {
+    "assets": [
+      "_app/immutable/assets/maracuya.b2d6e4eb.png",
+      "_app/immutable/assets/fi.df9f70ae.png",
+      "_app/immutable/assets/fira-mono-cyrillic-ext-400-normal.3df7909e.woff2",
+      "_app/immutable/assets/fira-mono-all-400-normal.1e3b098c.woff",
+      "_app/immutable/assets/fira-mono-cyrillic-400-normal.c7d433fd.woff2",
+      "_app/immutable/assets/fira-mono-greek-ext-400-normal.9e2fe623.woff2",
+      "_app/immutable/assets/fira-mono-greek-400-normal.a8be01ce.woff2",
+      "_app/immutable/assets/fira-mono-latin-ext-400-normal.6bfabd30.woff2",
+      "_app/immutable/assets/fira-mono-latin-400-normal.e43b3538.woff2"
+    ],
+    "css": [
+      "_app/immutable/assets/0.df1a4a6c.css"
+    ],
+    "file": "_app/immutable/nodes/0.327ecb44.js",
+    "imports": [
+      "_scheduler.1671e808.js",
+      "_index.dfaa7074.js",
+      "_stores.baacd636.js"
+    ],
+    "isDynamicEntry": true,
+    "isEntry": true,
+    "src": ".svelte-kit/generated/client-optimized/nodes/0.js"
+  },
+  ".svelte-kit/generated/client-optimized/nodes/1.js": {
+    "file": "_app/immutable/nodes/1.300f3b64.js",
+    "imports": [
+      "_scheduler.1671e808.js",
+      "_index.dfaa7074.js",
+      "_stores.baacd636.js"
+    ],
+    "isDynamicEntry": true,
+    "isEntry": true,
+    "src": ".svelte-kit/generated/client-optimized/nodes/1.js"
+  },
+  ".svelte-kit/generated/client-optimized/nodes/2.css": {
+    "file": "_app/immutable/assets/2.43286b69.css",
+    "src": ".svelte-kit/generated/client-optimized/nodes/2.css"
+  },
+  ".svelte-kit/generated/client-optimized/nodes/2.js": {
+    "css": [
+      "_app/immutable/assets/2.43286b69.css"
+    ],
+    "file": "_app/immutable/nodes/2.469d3a2d.js",
+    "imports": [
+      "_scheduler.1671e808.js",
+      "_index.dfaa7074.js"
+    ],
+    "isDynamicEntry": true,
+    "isEntry": true,
+    "src": ".svelte-kit/generated/client-optimized/nodes/2.js"
+  },
+  ".svelte-kit/generated/client-optimized/nodes/3.css": {
+    "file": "_app/immutable/assets/3.5cc5e970.css",
+    "src": ".svelte-kit/generated/client-optimized/nodes/3.css"
+  },
+  ".svelte-kit/generated/client-optimized/nodes/3.js": {
+    "assets": [
+      "_app/immutable/assets/LinBifi.9461e4e4.png",
+      "_app/immutable/assets/PlacPara.d989a3ff.png",
+      "_app/immutable/assets/CableCoa.7a0b8ac9.png"
+    ],
+    "css": [
+      "_app/immutable/assets/3.5cc5e970.css"
+    ],
+    "file": "_app/immutable/nodes/3.d2ae0380.js",
+    "imports": [
+      "_scheduler.1671e808.js",
+      "_index.dfaa7074.js"
+    ],
+    "isDynamicEntry": true,
+    "isEntry": true,
+    "src": ".svelte-kit/generated/client-optimized/nodes/3.js"
+  },
+  "_index.dfaa7074.js": {
+    "file": "_app/immutable/chunks/index.dfaa7074.js",
+    "imports": [
+      "_scheduler.1671e808.js"
+    ]
+  },
+  "_scheduler.1671e808.js": {
+    "file": "_app/immutable/chunks/scheduler.1671e808.js"
+  },
+  "_singletons.471161ef.js": {
+    "file": "_app/immutable/chunks/singletons.471161ef.js",
+    "imports": [
+      "_scheduler.1671e808.js"
+    ]
+  },
+  "_stores.baacd636.js": {
+    "file": "_app/immutable/chunks/stores.baacd636.js",
+    "imports": [
+      "_singletons.471161ef.js"
+    ]
+  },
+  "node_modules/@fontsource/fira-mono/files/fira-mono-all-400-normal.woff": {
+    "file": "_app/immutable/assets/fira-mono-all-400-normal.1e3b098c.woff",
+    "src": "node_modules/@fontsource/fira-mono/files/fira-mono-all-400-normal.woff"
+  },
+  "node_modules/@fontsource/fira-mono/files/fira-mono-cyrillic-400-normal.woff2": {
+    "file": "_app/immutable/assets/fira-mono-cyrillic-400-normal.c7d433fd.woff2",
+    "src": "node_modules/@fontsource/fira-mono/files/fira-mono-cyrillic-400-normal.woff2"
+  },
+  "node_modules/@fontsource/fira-mono/files/fira-mono-cyrillic-ext-400-normal.woff2": {
+    "file": "_app/immutable/assets/fira-mono-cyrillic-ext-400-normal.3df7909e.woff2",
+    "src": "node_modules/@fontsource/fira-mono/files/fira-mono-cyrillic-ext-400-normal.woff2"
+  },
+  "node_modules/@fontsource/fira-mono/files/fira-mono-greek-400-normal.woff2": {
+    "file": "_app/immutable/assets/fira-mono-greek-400-normal.a8be01ce.woff2",
+    "src": "node_modules/@fontsource/fira-mono/files/fira-mono-greek-400-normal.woff2"
+  },
+  "node_modules/@fontsource/fira-mono/files/fira-mono-greek-ext-400-normal.woff2": {
+    "file": "_app/immutable/assets/fira-mono-greek-ext-400-normal.9e2fe623.woff2",
+    "src": "node_modules/@fontsource/fira-mono/files/fira-mono-greek-ext-400-normal.woff2"
+  },
+  "node_modules/@fontsource/fira-mono/files/fira-mono-latin-400-normal.woff2": {
+    "file": "_app/immutable/assets/fira-mono-latin-400-normal.e43b3538.woff2",
+    "src": "node_modules/@fontsource/fira-mono/files/fira-mono-latin-400-normal.woff2"
+  },
+  "node_modules/@fontsource/fira-mono/files/fira-mono-latin-ext-400-normal.woff2": {
+    "file": "_app/immutable/assets/fira-mono-latin-ext-400-normal.6bfabd30.woff2",
+    "src": "node_modules/@fontsource/fira-mono/files/fira-mono-latin-ext-400-normal.woff2"
+  },
+  "node_modules/@sveltejs/kit/src/runtime/client/start.js": {
+    "file": "_app/immutable/entry/start.30aefb25.js",
+    "imports": [
+      "_scheduler.1671e808.js",
+      "_singletons.471161ef.js"
+    ],
+    "isEntry": true,
+    "src": "node_modules/@sveltejs/kit/src/runtime/client/start.js"
+  },
+  "src/lib/images/CableCoa.png": {
+    "file": "_app/immutable/assets/CableCoa.7a0b8ac9.png",
+    "src": "src/lib/images/CableCoa.png"
+  },
+  "src/lib/images/LinBifi.png": {
+    "file": "_app/immutable/assets/LinBifi.9461e4e4.png",
+    "src": "src/lib/images/LinBifi.png"
+  },
+  "src/lib/images/PlacPara.png": {
+    "file": "_app/immutable/assets/PlacPara.d989a3ff.png",
+    "src": "src/lib/images/PlacPara.png"
+  },
+  "src/lib/images/fi.png": {
+    "file": "_app/immutable/assets/fi.df9f70ae.png",
+    "src": "src/lib/images/fi.png"
+  },
+  "src/lib/images/maracuya.png": {
+    "file": "_app/immutable/assets/maracuya.b2d6e4eb.png",
+    "src": "src/lib/images/maracuya.png"
+  },
+  "src/lib/images/portada.png": {
+    "file": "_app/immutable/assets/portada.a4f4b061.png",
+    "src": "src/lib/images/portada.png"
+  }
+}
